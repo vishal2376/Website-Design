@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Grand Stories</title>
+   <link rel="stylesheet" href="style.css">
+ 
+</head>
+<body>
+<!--  header--> 
+   <header>
+      <div class="logo">
+         <h1>Grand Stories</h1>
+         <p>Beyond your imagination</p>
+      </div>
+      <ul>
+         <li><a href="#" class="activemenu">home</a></li>
+         <li class="dropdown">
+           <a href="#" class="dropbtn">category</a>
+           <div class="dropdown-content">
+             <a href="#">Motivation</a>
+             <a href="#">Kids</a>
+             <a href="#">Humour</a>
+             <a href="#">Moral values</a>
+             <a href="#">True events</a>
+           </div>
+         </li>
+         <li><a href="#">gallery</a></li>
+         <li><a href="#">shop</a></li>
+         <li><a href="#contactform">contact</a></li>
+      </ul>
+   </header>
+   
+<!--   banner-->
+<div class="banner">
+   <h2>Became a part of our Family</h2>
+   <a href="#">Join Now</a>
+</div>
+
+<!--section-->
+<h2 class="title">Stories in this week</h2>
+<section>
+   <div class="post"> 
+     <h3>A Man with his only hand</h3>   
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni aliquid, officiis vitae incidunt excepturi aliquam repellat, assumenda a magnam facere sunt recusandae blanditiis quibusdam beatae, cum cupiditate ratione iure porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium, numquam eligendi tenetur suscipit dolorem, sint, natus dolorum in quam quo. Et quo reiciendis incidunt velit animi excepturi expedita itaque numquam natus rem aperiam, inventore nemo doloribus, autem in quis a eveniet odio ipsa dignissimos nesciunt. Deserunt, minima. Quidem illum deleniti dolores reprehenderit, libero! Repellat, blanditiis labore ad consequuntur reiciendis....</p>
+      <a href="#">Read More</a>
+    </div>
+
+   <div class="post"> 
+     <h3>Great Wizard</h3>   
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni aliquid, officiis vitae incidunt excepturi aliquam repellat, assumenda a magnam facere sunt recusandae blanditiis quibusdam beatae, cum cupiditate ratione iure porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium, numquam eligendi tenetur suscipit dolorem, sint, natus dolorum in quam quo. Et quo reiciendis incidunt velit animi excepturi expedita itaque numquam natus rem aperiam, inventore nemo doloribus, autem in quis a eveniet odio ipsa dignissimos nesciunt. Deserunt, minima. Quidem illum deleniti dolores reprehenderit, libero! Repellat, blanditiis labore ad consequuntur reiciendis....</p>
+      <a href="#">Read More</a>
+    </div>
+
+   <div class="post"> 
+     <h3>Truth is not always bitter</h3>   
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni aliquid, officiis vitae incidunt excepturi aliquam repellat, assumenda a magnam facere sunt recusandae blanditiis quibusdam beatae, cum cupiditate ratione iure porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium, numquam eligendi tenetur suscipit dolorem, sint, natus dolorum in quam quo. Et quo reiciendis incidunt velit animi excepturi expedita itaque numquam natus rem aperiam, inventore nemo doloribus, autem in quis a eveniet odio ipsa dignissimos nesciunt. Deserunt, minima. Quidem illum deleniti dolores reprehenderit, libero! Repellat, blanditiis labore ad consequuntur reiciendis....</p>
+      <a href="#">Read More</a>
+    </div>
+
+   <div class="post"> 
+     <h3>Are you Crazy?</h3>   
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni aliquid, officiis vitae incidunt excepturi aliquam repellat, assumenda a magnam facere sunt recusandae blanditiis quibusdam beatae, cum cupiditate ratione iure porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium, numquam eligendi tenetur suscipit dolorem, sint, natus dolorum in quam quo. Et quo reiciendis incidunt velit animi excepturi expedita itaque numquam natus rem aperiam, inventore nemo doloribus, autem in quis a eveniet odio ipsa dignissimos nesciunt. Deserunt, minima. Quidem illum deleniti dolores reprehenderit, libero! Repellat, blanditiis labore ad consequuntur reiciendis....</p>
+      <a href="#">Read More</a>
+    </div>
+
+</section>
+
+<h2 class="title">Story of the month</h2>
+<section>
+   <div class="post best"> 
+     <h3>This is the end of the earth</h3>
+     <img src="img/templatemo_event_01.jpg" alt="">   
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni aliquid, officiis vitae incidunt excepturi aliquam repellat, assumenda a magnam facere sunt recusandae blanditiis quibusdam beatae, cum cupiditate ratione iure porro Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed praesentium, numquam eligendi tenetur suscipit dolorem, sint, natus dolorum in quam quo. Et quo reiciendis incidunt velit animi excepturi expedita itaque numquam natus rem aperiam, inventore nemo doloribus, autem in quis a eveniet odio ipsa dignissimos nesciunt. Deserunt, minima. Quidem illum deleniti dolores reprehenderit, libero! Repellat, blanditiis labore ad consequuntur reiciendis....</p>
+      <a href="#">Read More</a>
+    </div>
+</section>
+
+<div class="banner small">
+   <h2>Want to be publish your story ?</h2>
+   <a href="#">Publish Here</a>
+</div>
+
+<!--slideshow-->
+<h2 class="title">Trending Stories</h2>
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="../test/img/templatemo_banner_slide_01.jpg" style="width:100%">
+  <div class="text">The wonderful lights on highway</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="../test/img/templatemo_banner_slide_02.jpg" style="width:100%">
+  <div class="text">From drop to ocean</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="../test/img/templatemo_banner_slide_03.jpg" style="width:100%">
+  <div class="text">A Day in Desert</div>
+</div>
+
+</div>
+
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<!--contact-->
+<div id="contactform">
+<div class="contactform">
+<div class="form">
+    <label for="name">Name *</label><br>
+    <input type="text" required><br>
+    <label for="email">Email *</label><br>
+    <input type="email" required><br>
+    <label for="comment">Comment *</label><br>
+    <textarea cols="30" rows="10" required></textarea><br>
+    <input type="submit" class="btn">
+  </div>
+ <div class="info">
+ <h2 style="font-size:40px;color:#fff;position:absolute;top:60px;">Contact Us</h2>
+ <h3>Address</h3>
+ <p>House No.12, Prestin road <br> Los Angels , USA</p>
+ <h3>Phone</h3>
+ <p>1800-423-0035</p>
+ <h3>Mail</h3>
+ <p>help@gstories.com</p>
+ </div>
+ 
+  </div>   
+</div>
+
+
+<footer>
+   <p>&copy; <span style="color: rgb(255, 59, 0);">Grand Stories</span> 2020. All rights reserved.</p>
+</footer>
+
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+       slides[i].style.display = "none";  
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
