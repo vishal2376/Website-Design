@@ -1,11 +1,10 @@
 # Website-Design 
 
 ##How to Contribute :
-
-- **Fork** this repository.
-- Edit/Add your contribution in **Forked repository**.
-- Goto **Pull Request** tab and do a **New pull request**.
-- Click on **Create Pull Request**. 
+  - **Fork** this repository.
+  - Edit/Add your contribution in **Forked repository**.
+  - Goto **Pull Request** tab and do a **New pull request**.
+  - Click on **Create Pull Request**. 
 
 ##How to use :
 
