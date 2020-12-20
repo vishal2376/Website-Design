@@ -1,9 +1,23 @@
-# Website-Design
+# Website-Design 
 
-## websties are not work better with mobiles.
+##How to Contribute :
 
-### Also watch my project 
-   Virtual Assistant (made with c++) : https://github.com/vishal2376/virtual-assistant
+- **Fork** this repository.
+- Edit/Add your contribution in **Forked repository**.
+- Goto **Pull Request** tab and do a **New pull request**.
+- Click on **Create Pull Request**. 
 
+##How to use :
 
-  Follow on instagram: https://www.instagram.com/vishal_2376/
+- Open any website folder and find `index.html`.
+- Open `index.html` file on any latest browser.
+
+> **Internet connection not required**
+
+## More projects : 
+   
+  - [Virtual Assistant](https://github.com/vishal2376/virtual-assistant)
+
+## Contact :  
+  - [Instagram](https://www.instagram.com/vishal_2376/)
+  - [Telegram](https://t.me/vishal2376/)
