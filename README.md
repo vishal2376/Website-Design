@@ -8,7 +8,7 @@
   <a href="https://github.com/vishal2376/Website-Design/stargazers">
     <img src="https://img.shields.io/github/stars/vishal2376/Website-Design"/> 
   </a>
-    <a href="https://github.com/vishal2376/Website-Design/LICENSE">
+    <a href="https://github.com/vishal2376/Website-Design/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/vishal2376/Website-Design"/> 
   </a>
 </p>
