@@ -1,5 +1,18 @@
 # Website-Design 
 
+
+<p align="center">
+  <a href="https://github.com/vishal2376/Website-Design/issues">
+    <img src="https://img.shields.io/github/issues/vishal2376/Website-Design"/> 
+  </a> 
+  <a href="https://github.com/vishal2376/Website-Design/stargazers">
+    <img src="https://img.shields.io/github/stars/vishal2376/Website-Design"/> 
+  </a>
+    <a href="https://github.com/vishal2376/Website-Design/LICENSE">
+    <img src="https://img.shields.io/github/license/vishal2376/Website-Design"/> 
+  </a>
+</p>
+
 ## How to Contribute :
   - **Fork** this repository.
   - Edit/Add your contribution in **Forked repository**.
