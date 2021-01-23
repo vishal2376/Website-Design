@@ -29,16 +29,16 @@
 ## Screeshots :
 
   - [learn-to-code](https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/)
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="100px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="200px">
   
   - **coder-vishal**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/1.png" height="100px" width="100px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/1.png" height="200px">
 
   - **grand-stories**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/1.png" height="100px" width="100px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/1.png" height="250px">
 
   - **password-generator**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="100px" width="100px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="300px">
 
 ## More projects : 
    
