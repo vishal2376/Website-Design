@@ -1,0 +1,147 @@
+/* Made By Vishal Singh*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    color: #537ff7;
+}
+
+body {
+    background: #537ff7;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    width: 450px;
+    background: #fff;
+    margin: 10% auto;
+    padding: 30px 50px;
+    box-shadow: 4px 7px 15px rgba(0,0,0,0.5);
+
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+#rangeValue {
+    position: absolute;
+    right:-15px;
+    top:-10px;
+    background: #537ff7;
+    width: 50px;
+    color: #fff;
+    text-align: center;
+    padding: 2px;
+}
+
+#rangeValue:before {
+    content: '';
+    position: absolute;
+    height: 10px;
+    width: 10px;
+    transform:translateY(55%) rotate(45deg);
+    background: #537ff7;
+    left: -5px;
+}
+
+.range {
+    -webkit-appearance:none;
+    background: #537ff7;
+    width: 300px;
+    outline: none;
+    height: 5px;
+    border-radius: 20px;
+    transition: 0.5s;
+    outline: none;
+}
+
+.range::-webkit-slider-thumb {
+    -webkit-appearance:none;
+    background: #fff;
+    border: 3px solid #537ff7;
+    height: 23px;
+    outline: none;
+    width: 23px;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+
+.txt {
+    margin-left: 20px;
+    vertical-align:-4px;
+}
+
+.checkbox {
+    height: 26px;
+    width: 50px;
+    border-radius: 20px;
+    -webkit-appearance:none;
+    background: #eee;
+    outline: none;
+    position: relative;
+    margin: -10px 0;
+    transition: 0.5s;
+    box-shadow:inset 0 0 5px rgba(0,0,0,0.1);
+}
+
+.checkbox:before {
+    content: '';
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    transform: translateY(14%);
+    background: #fff;
+    left: 4px;
+    transition: 0.5s;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.checkbox:checked {
+    background: #537ff7;
+}
+
+.checkbox:checked:before {
+    left: 27px;
+}
+
+.btn {
+    height: 35px;
+    width: 220px;
+    outline: none;
+    margin: 0 auto;
+    border: none;
+    background: #537ff7;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 2px;
+    padding: 2px 15px;
+    transition: 0.5s;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 1px 2px 10px rgba(0,0,0,0.3);
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    background: #3b69eb;
+}
+
+.show {
+    width: 100% ;
+    border: 2px solid;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: -20px;
+}
