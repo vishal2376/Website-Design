@@ -28,17 +28,28 @@
 
 ## Screeshots :
 
-  - [learn-to-code](https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/)
+  - **learn-to-code**
+  <p>
   <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/2.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/3.png" height="200px">
+  </p>
   
   - **coder-vishal**
+  <p>
   <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/1.png" height="200px">
-
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/2.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/3.png" height="200px">
+  </p>
+  
   - **grand-stories**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/1.png" height="250px">
-
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/1.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/2.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/3.png" height="200px">
+  
   - **password-generator**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="300px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="200px">
 
 ## More projects : 
    
