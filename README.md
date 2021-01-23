@@ -43,14 +43,17 @@
   </p>
   
   - **grand-stories**
+  <p>
   <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/1.png" height="200px">
   <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/2.png" height="200px">
   <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/3.png" height="200px">
+  </p>
   
   - **password-generator**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="200px">
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="200px">
-
+  <p>
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="30%">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/2.png" height="20%">
+  </p>
 ## More projects : 
    
   - [Virtual Assistant](https://github.com/vishal2376/virtual-assistant)
