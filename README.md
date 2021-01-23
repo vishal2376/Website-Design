@@ -28,8 +28,8 @@
 
 ## Screeshots :
 
-  - **learn-to-code**
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="100px" width="100px">
+  - [learn-to-code](https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/)
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="100px">
   
   - **coder-vishal**
   <img src="https://github.com/vishal2376/Website-Design/blob/master/coder-vishal/screenshot/1.png" height="100px" width="100px">
