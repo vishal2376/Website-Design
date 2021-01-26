@@ -32,7 +32,7 @@
   <p>
   <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/1.png" height="200px">
 
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/6.png" height="200px">
+  <img src="https://github.com/vishal2376/Website-Design/blob/master/learn-to-code/Screenshots/4.png" height="200px">
   </p>
   
   - **coder-vishal**
