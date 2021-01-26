@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/stars/vishal2376/Website-Design"/> 
   </a>
     <a href="https://github.com/vishal2376/Website-Design/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/licenxse/vishal2376/Website-Design"/> 
+    <img src="https://img.shields.io/github/license/vishal2376/Website-Design"/> 
   </a>
 </p>
 
