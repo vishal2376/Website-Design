@@ -19,8 +19,6 @@
   - Goto **Pull Request** tab and do a **New pull request**.
   - Click on **Create Pull Request**. 
 
-> **Internet connection not required**
-
 ## Screeshots :
 
   - **learn-to-code**
