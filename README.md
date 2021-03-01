@@ -19,11 +19,6 @@
   - Goto **Pull Request** tab and do a **New pull request**.
   - Click on **Create Pull Request**. 
 
-## How to use :
-
-- Open any website folder and find `index.html`.
-- Open `index.html` file on any latest browser.
-
 > **Internet connection not required**
 
 ## Screeshots :
