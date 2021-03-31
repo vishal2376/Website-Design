@@ -42,11 +42,6 @@
   <img src="https://github.com/vishal2376/Website-Design/blob/master/grand-stories/screenshots/6.png" height="200px">
   </p>
   
-  - **password-generator**
-  <p>
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/1.png" height="200px">
-  <img src="https://github.com/vishal2376/Website-Design/blob/master/password-generator/screenshots/2.png" height="200px">
-  </p>
   
 ## More projects : 
    
