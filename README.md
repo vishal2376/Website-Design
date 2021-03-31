@@ -46,6 +46,8 @@
 ## More projects : 
    
   - [Virtual Assistant](https://github.com/vishal2376/virtual-assistant)
+  - [C++ Mini Projects](https://github.com/vishal2376/cpp-mini-projects) 
+  - [Password Generator](https://github.com/vishal2376/password-generator) 
 
 ## Contact :  
   - [Instagram](https://www.instagram.com/vishal_2376/)
